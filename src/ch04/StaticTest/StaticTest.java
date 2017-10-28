@@ -1,4 +1,4 @@
-package ch03.StaticTest;
+package ch04.StaticTest;
 
 /**
  * Created by MKD on 2017/10/28
