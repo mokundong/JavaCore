@@ -41,4 +41,9 @@ public class Employee {
         Employee e = new Employee("Harry",50000);
         System.out.println(e.getName() + " " + e.getSalary());
     }
+    public static void swap(Employee x,Employee y){
+        Employee temp = x;
+        x = y;
+        y = temp;
+    }
 }
