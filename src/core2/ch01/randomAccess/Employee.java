@@ -1,8 +1,6 @@
-package core2.ch01.textFile;
+package core2.ch01.randomAccess;
 
-import java.util.Date;
-import java.util.GregorianCalendar;
-
+import java.util.*;
 /**
  * Created by MKD on 2017/10/28
  */

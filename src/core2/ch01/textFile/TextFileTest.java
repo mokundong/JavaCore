@@ -1,6 +1,8 @@
 package core2.ch01.textFile;
 
 
+import core2.ch01.randomAccess.Employee;
+
 import java.io.*;
 import java.util.*;
 /**
